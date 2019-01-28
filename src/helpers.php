@@ -1,8 +1,8 @@
 <?php
 
-if (!function_exists('broadcast')) {
+if (!function_exists('push')) {
 
-    function broadcast($data, $token)
+    function push($data)
     {
 
         $client = new \GuzzleHttp\Client();
