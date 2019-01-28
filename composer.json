@@ -21,15 +21,6 @@
             "src/helpers.php"
         ]
     },
-    "extra": {
-        "laravel": {
-            "providers": [
-                "PaulKatipunan\\Broadcast\\ServiceProvider"
-            ],
-            "aliases": {
-                "Broadcast": "PaulKatipunan\\Broadcast\\Broadcast"
-            }
-        }
-    },
+    
     "minimum-stability": "dev"
 }
