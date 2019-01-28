@@ -15,12 +15,12 @@
     },
     "autoload": {
         "psr-0": {
-            "PaulKatipunan\\Broadcast\\": "src/"
+            "PaulKatipunan": "src/"
         },
         "files": [
             "src/helpers.php"
         ]
     },
-    
+
     "minimum-stability": "dev"
 }
